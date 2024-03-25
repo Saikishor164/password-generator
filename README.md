@@ -1,4 +1,4 @@
-# Password Generator
+ # Password Generator
 
 This is a simple password generator web application written in HTML, CSS, and JavaScript. It generates strong and secure passwords based on user-defined criteria.
 
